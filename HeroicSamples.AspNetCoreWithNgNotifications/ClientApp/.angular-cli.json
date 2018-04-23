@@ -58,6 +58,9 @@
     "component": {},
     "build": {
       "progress": true
+    },
+    "serve": {
+      "port": 4400
     }
   }
 }

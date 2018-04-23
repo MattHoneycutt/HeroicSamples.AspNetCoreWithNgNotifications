@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "name": "mypackage",
+  "private": true,
+  "scripts": {
+    "start": "cd ClientApp && npm start"
+  },
+  "-vs-binding": {
+    "ProjectOpened": [
+      "start"
+    ]
+  }
+}
